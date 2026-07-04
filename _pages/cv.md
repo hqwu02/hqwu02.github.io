@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **Sep. 2014 – Sep. 2019**  
+  Ph.D. in Computer Application Technology, Jiangsu University, China
+
+- **Oct. 2017 – Nov. 2018**  
+  Visiting Scholar in Computer Science, Arizona State University, United States
+
+- **Sep. 2010 – Jun. 2014**  
+  B.S. in Computer Science, Jiangsu University, China
 
 Work experience
 ======
